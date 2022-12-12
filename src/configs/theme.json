@@ -1,0 +1,60 @@
+{
+  "colors": {
+    "background": "",
+    "onBackground": "",
+    "surface": "",
+    "onSurface": "",
+    "surfaceVariant": "",
+    "onSurfaceVariant": "",
+    "primary": "",
+    "onPrimary": "",
+    "primarySurface": "",
+    "onPrimarySurface": ""
+  },
+
+  "typography": {
+    "fontFamily": "",
+    "fontSize": {
+      "xs": "",
+      "sm": "",
+      "md": "",
+      "lg": "",
+      "xl": "",
+      "2xl": "",
+      "3xl": "",
+      "4xl": "",
+      "5xl": "",
+      "6xl": "",
+      "7xl": "",
+      "8xl": "",
+      "9xl": ""
+    },
+    "fontWeight": {
+      "hairline": "",
+      "thin": "",
+      "light": "",
+      "normal": "",
+      "medium": "",
+      "semibold": "",
+      "bold": "",
+      "extrabold": "",
+      "black": ""
+    },
+    "lineHeight": {
+      "none": "",
+      "tight": "",
+      "snug": "",
+      "normal": "",
+      "relaxed": "",
+      "loose": ""
+    },
+    "letterSpacing": {
+      "tighter": "",
+      "tight": "",
+      "normal": "",
+      "wide": "",
+      "wider": "",
+      "widest": ""
+    }
+  }
+}
