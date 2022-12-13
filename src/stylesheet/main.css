@@ -13,4 +13,35 @@ body {
   font-family: "Lato", sans-serif;
   background-color: var(--colors-background);
   color: var(--colors-on-background);
+  line-height: var(--lh-normal);
+}
+
+.container {
+  width: 100%;
+  margin: auto;
+  padding: 0 15px;
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    width: 768px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .container {
+    width: 992px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .container {
+    width: 1200px;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .container {
+    width: 1400px;
+  }
 }
