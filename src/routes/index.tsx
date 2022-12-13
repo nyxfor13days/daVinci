@@ -1,8 +1,5 @@
 import { lazy } from "react";
 import { createBrowserRouter } from "react-router-dom";
-
-const Home = lazy(() =>
-  import("./Home").then((module) => ({ default: module.default }))
-);
+import Home from "./Home";
 
 export const router = createBrowserRouter([{ path: "/", element: <Home /> }]);
