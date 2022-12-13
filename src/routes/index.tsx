@@ -13,6 +13,6 @@ export const router = createBrowserRouter([
   {
     path: "/admin",
     element: <AdminLogin />,
-    children: [{ path: "/admin/:id", element: <div>admin panel</div> }],
   },
+  { path: "/:id", element: <div>admin panel</div> },
 ]);
